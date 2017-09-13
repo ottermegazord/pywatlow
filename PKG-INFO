@@ -1,0 +1,14 @@
+Metadata-Version: 1.0
+Name: pywatlow
+Version: 0.1
+Summary: sungrow
+Home-page: UNKNOWN
+Author: Idaly Ali
+Author-email: idaly@mit.edu
+License: UNKNOWN
+Description: Interaction with temperature management device
+        
+              Allows modbus communication with temperature management devices
+              with serial interfaces from Watlow EZ-ZONE PM
+              
+Platform: UNKNOWN
